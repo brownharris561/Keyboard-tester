@@ -14,3 +14,7 @@ It also have 3 types of keyboard supports, that is -
 
 So, No matter what type of keyboard you are using. It will supports all types of keyboard very easily. 
 The live version of this is available at https://keyboardtester.io
+
+If you want to contribue to keyboard tester, then you can reach out to me on my email.
+
+Email: harris@keyboardtester.io
